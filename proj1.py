@@ -1,6 +1,9 @@
 import statistics
 from PIL import  Image
 
+#GITHUB LINK
+#https://github.com/hplazaghs/project1
+
 
 
 img1 = Image.open ("images/1.png")
